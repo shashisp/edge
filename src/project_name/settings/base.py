@@ -40,8 +40,8 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = (
     'authtools',
-    'django_admin_bootstrapped.bootstrap3',
-    'django_admin_bootstrapped',
+    # 'django_admin_bootstrapped.bootstrap3',
+    # 'django_admin_bootstrapped',
     'crispy_forms',
     'easy_thumbnails',
 
